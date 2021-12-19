@@ -4,6 +4,6 @@ docker.io:
       #备份青龙
       whyour/qinglong: []
       #备份诺兰jdc
-      cheche/nvjdc: []
+      nolanhzy/nvjdc: []
       #备份傻妞
       leanfly/sillygirl: []
