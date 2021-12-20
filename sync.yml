@@ -5,5 +5,8 @@ docker.io:
       whyour/qinglong: []
       #备份诺兰jdc
       nolanhzy/nvjdc: []
+      #备份nvjdc arm
+      nolanhzy/nvjdccaptcha: []
       #备份傻妞
       leanfly/sillygirl: []
+      
